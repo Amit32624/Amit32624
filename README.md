@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Sambrekar, friends call me Sam :)
-- 👀 I’m interested in knowing cool stuff like how Machine learning algorithms can be applied in day to day life and make people's life better.
+- 👀 I’m interested in knowing cool technologies like how Machine learning algorithms can be applied in day to day life and make people's life better.
 - 🌱 I’m currently exploring all the technologies related to Data Science field
 - 💞️ You can check out my repositories for Data science ralated cool stuff ;)
 - 📫 you can contact me by e-mailing me at amitsambrekar@gmail.com
