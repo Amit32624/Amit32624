@@ -5,7 +5,7 @@
 - 📫 you can contact me by e-mailing me at amitsambrekar@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit32624)](https://github.com/anuraghazra/github-readme-stats)
+[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit32624&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
