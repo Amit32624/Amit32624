@@ -4,10 +4,10 @@
 - 💞️ You can check out my repositories for Data science ralated cool stuff ;)
 - 📫 you can contact me by e-mailing me at amitsambrekar@gmail.com
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit32624&show_icons=true)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit32624&show_icons=true&hide=contribs)
 
 
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit32624&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit32624&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!---
