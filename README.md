@@ -4,6 +4,10 @@
 - 💞️ You can check out my repositories for Data science ralated cool stuff ;)
 - 📫 you can contact me by e-mailing me at amitsambrekar@gmail.com
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit32624)](https://github.com/Amit32624/github-readme-stats)
+
+
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit32624&show_icons=true&hide=contribs&theme=merko)
 )
 
